@@ -3,9 +3,14 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  logo:
+    header: "/assets/images/LOGO_Vertigolab.svg"
+    footer: "/assets/images/LOGO+BASELINE_Vertigolab.svg"
+
   summary:
     position: hero
+
   search:
-    active: true
+    active: false
     position: menu
     appearance: icon
