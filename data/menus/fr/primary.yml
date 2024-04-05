@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Notre équipe
-  target: "/equipe/"
+  target: "/notre-equipe/"
   kind: page
   children: []
 - title: Notre offre
