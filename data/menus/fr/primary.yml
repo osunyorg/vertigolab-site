@@ -13,12 +13,12 @@ items:
   target: "/projets/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Retrouvez-nous
   target: "/retrouvez-nous/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
   kind: page
   children: []
 
