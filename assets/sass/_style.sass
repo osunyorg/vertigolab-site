@@ -1,53 +1,103 @@
+html.has-menu-opened
+    header#document-header
+        background-color: $color-foret
+
+        .header-button:hover
+            color: $color-pollen
+        .nav-level-1 
+            > li:hover
+                color: $color-pollen
+        
+
 header#document-header 
+  
+    .header-button:hover
+            color: $color-pollen
     nav
         padding-bottom: 10px
         padding-top: 10px
 
 body
+    .hero-text  
+        span
+            color: $color-pollen !important
+        .lead
+            color: $color-background 
+    li.breadcrumb-item::before
+        color: $color-pollen !important
+    .block-call_to_action
+        div
+            //background-color: $color-foret 
+            //color: $color-pollen
+            background-color: $color-ciel
+            color: $color-foret
+
+            > div
+                .actions
+                    a
+                        //background-color: $color-pollen !important
+                        background-color: $color-pollen !important
+                        color: inherit !important
+                        &:hover,
+                        &:focus
+                            background-color: $color-foret !important
+                            color: $color-pollen !important
+                            //background-color: $color-corail !important
+                            //color: inherit !important
+
+                    
+                
+            
+        
+    
+
+
     .odd-items
         dt
             font-weight: bold;
             //text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
             strong
-                -webkit-text-stroke: 1.5px #e55a29; 
+                -webkit-text-stroke: 1.5px $color-corail; 
                 color: transparent; 
               
     .testimonials
             blockquote
                 p
-                    //color: #005527
-                    color:#e55a29
-   
+                    //color: $color-foret
+                    color: $color-corail
+    .block-chapter--alt_background
+        background-color: $color-ciel
+
     .block-chapter--accent_background
-        background-color: #005527
+        background-color: $color-foret
         h2
-            color: #ffe47a
+            color: $color-pollen
 
         h3
-            color: #ffe47a
+            color: $color-pollen
         p
-            color: #ffffff
+            color: $color-background
 
     .project-content
         .project-categories
             a
-                color: #e55a29
-                text-decoration-color: #ffe47a
+                color: $color-corail
+                text-decoration-color: $color-pollen
             a:hover
-                text-decoration-color: #e55a29
+                text-decoration-color: $color-corail
 
 
     .project-infos
         li
             a
-                color: #ffe47a
-                text-decoration-color: #e55a29
+                color: $color-pollen
+                text-decoration-color: $color-corail
             a:hover
-                text-decoration-color: #ffe47a
+                text-decoration-color: $color-pollen
 
 
             span
-                color: #FFFFFF
+                color: $color-background
 
 
         
