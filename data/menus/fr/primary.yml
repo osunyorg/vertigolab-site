@@ -5,6 +5,10 @@ items:
   target: "/equipe/"
   kind: page
   children: []
+- title: Notre offre
+  target: "/notre-offre/"
+  kind: page
+  children: []
 - title: Nos références
   target: "/projets/"
   kind: page
@@ -15,10 +19,6 @@ items:
   children: []
 - title: Agenda
   target: "/agenda/"
-  kind: page
-  children: []
-- title: Notre offre
-  target: "/notre-offre/"
   kind: page
   children: []
 
