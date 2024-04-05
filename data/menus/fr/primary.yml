@@ -17,7 +17,7 @@ items:
   target: "/agenda/"
   kind: page
   children: []
-- title: Organisations
+- title: Notre offre
   target: "/organisations/"
   kind: page
   children: []
