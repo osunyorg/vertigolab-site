@@ -17,8 +17,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
+- title: Retrouvez-nous
+  target: "/retrouvez-nous/"
   kind: page
   children: []
 
