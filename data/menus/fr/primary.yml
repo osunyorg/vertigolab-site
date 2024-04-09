@@ -21,4 +21,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
 
