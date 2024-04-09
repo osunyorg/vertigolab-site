@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
 - title: Notre équipe
   target: "/notre-equipe/"
   kind: page
@@ -19,10 +23,6 @@ items:
   children: []
 - title: Actualités
   target: "/actualites/"
-  kind: page
-  children: []
-- title: Accueil
-  target: "/"
   kind: page
   children: []
 
