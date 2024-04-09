@@ -21,8 +21,4 @@ items:
   target: "/retrouvez-nous/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 
