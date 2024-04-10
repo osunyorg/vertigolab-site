@@ -21,4 +21,8 @@ items:
   target: "/retrouvez-nous/"
   kind: page
   children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
+  children: []
 

@@ -1,6 +1,10 @@
 ---
 title: Informations légales
 items:
+- title: Contact
+  target: "/contact/"
+  kind: page
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
