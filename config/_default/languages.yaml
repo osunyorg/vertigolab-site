@@ -14,7 +14,7 @@ fr:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     persons: /notre-equipe/:slug/
-    persons_categories: /notre-equipe/:slug/
+    persons_categories: /notre-equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
