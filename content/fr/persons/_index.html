@@ -57,7 +57,7 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 24
+  seconds: 25
   text: >-
     moins d'une minute
 contents:
@@ -65,6 +65,8 @@ contents:
     template: chapter
     title: >-
       Qui sommes-nous ?
+    slug: >-
+      qui-sommes-nous
     ranks:
       self: 2
     data:
@@ -87,15 +89,23 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Membres de l'équipe
-    slug: "membres-de-l-equipe"
-    position: 1
-    rank: 2
+    slug: >-
+      membres-de-l-equipe
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -152,6 +162,8 @@ contents:
     template: call_to_action
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -174,7 +186,6 @@ contents:
             https://jobs.makesense.org/fr/projects/vertigo-lab-5443
 
           target_blank: true
-
 
 
 
