@@ -10,7 +10,4 @@ params:
   summary:
     position: hero
 
-  search:
-    active: false
-    position: menu
-    appearance: icon
+
