@@ -5,30 +5,36 @@ items:
   target: "/"
   kind: page
   children: []
+  path: "/"
   file: content/fr/_index.html
 - title: Notre équipe
   target: "/notre-equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/fr/persons/_index.html
 - title: Notre offre
   target: "/notre-offre/"
   kind: page
   children: []
+  path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: Nos références
   target: "/projets/"
   kind: page
   children: []
+  path: "/projects"
   file: content/fr/projects/_index.html
 - title: Retrouvez-nous
   target: "/retrouvez-nous/"
   kind: page
   children: []
+  path: "/events"
   file: content/fr/events/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
   children: []
+  path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
