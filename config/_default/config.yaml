@@ -1,7 +1,5 @@
 theme: osuny
-paginate: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 params:
   logo:
     header: "/assets/images/LOGO_Vertigolab.svg"
@@ -9,5 +7,3 @@ params:
 
   summary:
     position: hero
-
-
