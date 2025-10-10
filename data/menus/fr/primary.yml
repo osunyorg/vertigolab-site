@@ -36,6 +36,13 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
+- title: Actualités
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
