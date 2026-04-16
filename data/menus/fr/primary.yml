@@ -48,7 +48,7 @@ items:
   file: content/fr/events/_index.html
 - title: Actualités
   slug: actualites
-  target: "/"
+  target: "/actualites/"
   kind: page
   new_tab: false
   children: []
