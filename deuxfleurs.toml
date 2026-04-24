@@ -13,32 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/agenda/archives/"
-to = "/retrouvez-nous/archives/"
-
-[[redirects]]
-from = "/equipe/vanessa-pellefigue/"
-to = "/notre-equipe/vanessa-pellefigue/"
-
-[[redirects]]
-from = "/agenda/"
-to = "/retrouvez-nous/"
-
-[[redirects]]
-from = "/organisations/"
-to = "/notre-offre/"
-
-[[redirects]]
-from = "/retrouvez-nous/2024-04-11-evenement-resolution-2024/"
-to = "/retrouvez-nous/2024/evenement-resolution-2024/"
-
-[[redirects]]
-from = "/equipe/"
-to = "/notre-equipe/"
-
-[[redirects]]
-from = "/equipe/equipe-editoriale/"
-to = "/notre-equipe/equipe-editoriale/"
-
