@@ -15,30 +15,30 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/archives/"
+from = "/agenda/archives/index.html"
 to = "/retrouvez-nous/archives/"
 
 [[redirects]]
-from = "/equipe/vanessa-pellefigue/"
+from = "/equipe/vanessa-pellefigue/index.html"
 to = "/notre-equipe/vanessa-pellefigue/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/retrouvez-nous/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/notre-offre/"
 
 [[redirects]]
-from = "/retrouvez-nous/2024-04-11-evenement-resolution-2024/"
+from = "/retrouvez-nous/2024-04-11-evenement-resolution-2024/index.html"
 to = "/retrouvez-nous/2024/evenement-resolution-2024/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/notre-equipe/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/notre-equipe/equipe-editoriale/"
 
